@@ -1,1 +1,26 @@
-
+[
+  {
+    "banner": "images/icon1.png",
+    "icon": "images/banner1.png",
+    "title": "Clean Smarter. Live Faster.",
+    "desc": "Clean junk, free storage, manage apps, and keep your phone running smoothly with smart cleaning tools.",
+    "buttonName": "Free Up Space",
+    "link": "https://642.quizwinz.com/"
+  },
+  {
+    "banner": "images/icon1.png",
+    "icon": "images/banner1.png",
+    "title": "Free Up Your Phone",
+    "desc": "Find junk, duplicates, large files, and unwanted media. Reclaim storage in just a few taps.",
+    "buttonName": "Optimize Now",
+    "link": "https://642.quizwinz.com/"
+  },
+  {
+    "banner": "images/icon1.png",
+    "icon": "images/banner1.png",
+    "title": "Smart Cleaning Made Simple",
+    "desc": "Let smart cleaning tools help you find unwanted files and keep your phone organized effortlessly.",
+    "buttonName": "Clean Now",
+    "link": "https://642.quizwinz.com/"
+  }
+]
